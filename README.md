@@ -2,7 +2,7 @@
 Compile or run :
 ```bash
 
-src\main\java\com\dest\calculation\Main
+src\main\java\com\dest\calculation\App.java
 
 ```
 
